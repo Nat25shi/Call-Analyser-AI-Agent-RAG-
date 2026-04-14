@@ -16,7 +16,7 @@ embed_model = SentenceTransformer('all-MiniLM-L6-v2')
 
 class CallAgent:
     def __init__(self, csv_path):
-        # Load the CSV data
+        #  to Load the CSV data
         try:
             self.df = pd.read_csv(csv_path, encoding='latin-1')
         except FileNotFoundError:
