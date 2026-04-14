@@ -1,5 +1,5 @@
 # Call-Analyser-AI-Agent-RAG-
-​This project implements an intelligent Call Center Agent that uses Retrieval-Augmented Generation (RAG) and Deterministic Tool Routing to analyze customer call transcripts. The agent can summarize specific interactions, list unresolved issues, and provide sentiment analysis based on call outcomes.
+​This project implements an intelligent Call Analyser Agent that uses Retrieval-Augmented Generation (RAG) and Deterministic Tool Routing to analyze customer call transcripts. The agent can summarize specific interactions, list unresolved issues, and provide sentiment analysis based on call outcomes.
 ​1. My Approach
 ​The architecture is designed to prioritize data groundedness over creative AI generation. I followed a four-step pipeline:
 ​A. Task 1: Semantic Indexing (RAG)
